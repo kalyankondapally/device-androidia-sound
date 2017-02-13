@@ -40,7 +40,7 @@
 
 #include <audio_utils/resampler.h>
 
-#include "audio_route.h"
+#include "audio_route.h
 
 #define PCM_CARD 0
 #define PCM_DEVICE 0
